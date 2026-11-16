@@ -89,6 +89,4 @@ the extension's store listing before the version that implements them is release
 
 ## Contact
 
-Questions about this policy: **[your contact email]**
-
-Source code: **[link to your repository, if public]**
+Questions about this policy: **charlescdoyle1@gmail.com**
